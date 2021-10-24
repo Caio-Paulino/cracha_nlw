@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'Caio-Paulino',
   youtube: 'channel/UCns7jcsdmpDYTk_NE_AyJVQ',
   facebook: 'profile.php?id=100013828562389',
-  instagram: 'im_gsantos',
+  instagram: '10paulinhosilva10',
   twitter: 'Caio19109407'
 }
 
